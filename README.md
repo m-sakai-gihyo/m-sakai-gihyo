@@ -1,4 +1,4 @@
-## Hi there 👋
+## 準備中 👋
 
 <!--
 **m-sakai-gihyo/m-sakai-gihyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
